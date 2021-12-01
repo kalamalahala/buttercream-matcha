@@ -9,5 +9,8 @@
 <body>
     <h1>v0.1</h1>html
     <p>So if I adjust things here now, it will reflect on the github website?</p>
+    <?php
+     phpinfo();
+    ?>
 </body>
 </html>
